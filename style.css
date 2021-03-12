@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(#00f260, #0575e6);
+    background-repeat: no-repeat;
+}
+
+header {
+    margin-top: 20px;
+    background: lightgrey;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+main {
+    background: grey;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 1rem;
+}
+
+.game-level {
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.game-fa {
+    font-size: 200px;
+    padding:2rem;
+    color: #00f260;
+}
+
+.word-container {
+    padding: 20px 0;
+}
+
+.game-board p {
+    padding: 2rem;
+}
+
+.score-board {
+    padding: 20px 0;
+}
+
+li {
+    list-style: none;
+}
+
+footer {
+    margin-bottom: 20px;
+    background: lightgrey;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 30px;
+}
+
+footer a {
+    color: blue;
+}
